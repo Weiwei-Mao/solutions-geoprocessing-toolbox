@@ -1,6 +1,8 @@
 
 # solutions-geoprocessing-toolbox
 
+## *This repository is no longer maintained* 
+
 The ArcGIS Solutions Geoprocessing Toolbox is a collection of models, scripts, and tools for use in [ArcGIS for Desktop](http://www.esri.com/software/arcgis/arcgis-for-desktop) and [ArcGIS Pro](http://www.esri.com/en/software/arcgis-pro). These tools provide specialized processing, workflows, and analysis for defense, intelligence, emergency management, and law enforcement. They are included in Esri's [Solutions Templates](http://solutions.arcgis.com/).
 
 
